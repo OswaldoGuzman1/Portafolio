@@ -1,20 +1,14 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Desarrollador Web (Freelancer)',
+    company: "Jairo Andrés Sotelo Flórez.",
+    duration: "(Enero 2023 - Diciembre 2023)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "FullStack Developer (semillero)",
+    company: "SoftCaribean",
+    duration: "Enero 2022 - Diciembre 2022"
   },
-  {
-    id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
-  }
 ]

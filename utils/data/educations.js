@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachiller tecnico",
+    duration: "2010 - 2015",
+    institution: "Rodrigo de Triana",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Ingeniero de Sistemas",
+    duration: "2018 II - 2023 I",
+    institution: "Universidad de Cordoba",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+    title: "Máster en SQL Server: Desde Cero a Nivel Profesional [2024]",
+    duration: "01/09/2023-04/10/2023",
+    institution: "Udemy",
+  },
 ]
